@@ -1,0 +1,5 @@
+load R1 16000000
+loadMem R1 2
+load R2 15
+add R1 R2
+ByteMod R4 6
